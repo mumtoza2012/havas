@@ -74,7 +74,7 @@ def til_keyboard():
         resize_keyboard=True
     )
     return rkm
-# ds
+# ds ergerg
 def til2_keyboard():
     button = KeyboardButton(text="Русский")
     button1 = KeyboardButton(text="O'zbekcha")
